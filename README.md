@@ -1,4 +1,0 @@
-testSourceControlProject
-========================
-
-testSourceControlProject
